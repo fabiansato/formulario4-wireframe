@@ -25,7 +25,7 @@
         </div>
         <div class="col-sm-11 col-md-6 align-items-center">
         <?php include 'view/modal.php';?>
-        <?php include 'view/formulario-funcional-promotigo.php';?>
+        <?php include 'view/formulario-funcional.php';?>
         </div>
 
 
